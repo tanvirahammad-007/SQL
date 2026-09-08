@@ -5,7 +5,7 @@
 ### Example-1
 ```sql
 -- Select query with unique results
-SELECT DISTINCT column, another_column, …
+SELECT DISTINCT col_1, col_2, …
 FROM mytable
 WHERE condition(s);
 ```
@@ -37,7 +37,7 @@ ORDER BY director ASC;
 ```sql
 -- Select query with limited rows
 
-SELECT column, another_column, …
+SELECT col_1, col_2, …
 FROM mytable
 WHERE condition(s)
 ORDER BY column ASC/DESC
