@@ -12,7 +12,7 @@ WHERE condition
 AND/OR another_condition
 AND/OR …;
 ```
-> More complex clauses can be constructed by joining numerous AND or OR logical keywords
+> More complex clauses can be constructed by joining numerous AND or OR logical keywords.
 
 | Operator | Description | Example |
 |---|---|---|
