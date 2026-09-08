@@ -11,7 +11,7 @@ FROM mytable;
 
 > The result of this query will be a two-dimensional set of rows and columns, effectively a copy of the table, but only with the columns that we requested.
 
-<mark>**Note:**</mark> If we want to retrieve absolutely all the columns of data from a table, we can then use the asterisk (*) shorthand in place of listing all the column names individually.
+<mark>**Note:**</mark> `If we want to retrieve absolutely all the columns of data from a table, we can then use the asterisk (*) shorthand in place of listing all the column names individually.`
 
 ---
 
